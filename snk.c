@@ -1,5 +1,3 @@
-//Some new comment
-//Some additional comment
 #include <stdio.h>
 #include <stdlib.h>
 
